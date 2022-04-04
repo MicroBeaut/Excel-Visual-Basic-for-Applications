@@ -7,10 +7,7 @@ Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = False
 Attribute VB_Exposed = False
-' MIT License
-' Copyright (c) 2022 MicroBeaut
-' https://github.com/MicroBeaut/MicroBeaut
-' Class: List
+
 
 Option Explicit
 Public Name As String
